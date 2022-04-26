@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/srijken/ng-xslx.git"
+    "url": "https://github.com/keshavwork/ng-xlsx.git"
   },
   "author": "Sander Rijken",
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/srijken/ng-xslx/issues"
+    "url": "https://github.com/keshavwork/ng-xslx/issues"
   },
-  "homepage": "https://github.com/srijken/ng-xslx",
+  "homepage": "https://github.com/keshavwork/ng-xslx",
   "devDependencies": {
     "connect-livereload": "^0.5.3",
     "grunt": "^0.4.5",
